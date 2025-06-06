@@ -44,6 +44,12 @@ A full-cycle data analytics project on Olist — a Brazilian online marketplace 
 - **PowerPoint** – Executive-level summary presentation
 
 ---
+## Raw Data File Link
+(https://drive.google.com/drive/folders/1eNlv9k7ic8AuYnIiDzCXy3TwK-J24hMD?usp=drive_link)
+
+## Olist_store_Analysis_project File Link
+https://drive.google.com/drive/folders/1GTHaSpXwe41DLxmVO9vRNRrafGs4uXNu?usp=sharing
+
 
 ## 📸 Screenshots
 
